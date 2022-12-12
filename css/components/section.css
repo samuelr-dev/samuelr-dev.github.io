@@ -8,3 +8,7 @@
 .section .main-title.-second {
     margin-bottom: 60px;
 }
+
+.section.-project {
+    background-color: #000;
+}
