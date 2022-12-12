@@ -1,0 +1,17 @@
+.card-project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00c3ff;
+    width:  280px;
+    height: 280px;
+    box-shadow: 10px 10px 0px #FFF;
+}
+
+.card-project.-second {
+    background-color: #00ff37;
+}
+
+.card-project.-third {
+    background-color: #7f37c2;
+}
